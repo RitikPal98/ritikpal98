@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ritik Pal
 
 👀 I’m interested in Machine Learning and Data Science.  
-💬 Let’s collaborate on meaningful **open-source projects** that make an impact.
-🌱 Currently exploring **LLMs**, **Agentic AI**, and **Chrome extensions**.
+💬 Let’s collaborate on meaningful **open-source projects** that make an impact.  
+🌱 Currently exploring **LLMs**, **Agentic AI**, and **Chrome extensions**.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritikpal09) 
 
 
